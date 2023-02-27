@@ -13,15 +13,3 @@ npm install boostrap@5.3.0-alpha1
 ...
 
 ...                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                         
-                                                                          ... FIM ...
